@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "23934212958",
+    "project_id": "rnsigning-310d1",
+    "storage_bucket": "rnsigning-310d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23934212958:android:770ddf4769166cf9b58dcf",
+        "android_client_info": {
+          "package_name": "com.rnsigninggoogle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23934212958-vg5qts46t8tkkb5o92o11brqq6b4rs4s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rnsigninggoogle",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "23934212958-cqglaihi202a2u76mup8uoedtgsj6e2h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABABMyT4BLR61G6fk-1Z09NxGUXbnZmTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23934212958-cqglaihi202a2u76mup8uoedtgsj6e2h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
